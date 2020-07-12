@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/resortmate/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/resortmate/static/js/main.1cf888a5.chunk.js",
+    "main.js.map": "/resortmate/static/js/main.1cf888a5.chunk.js.map",
+    "runtime-main.js": "/resortmate/static/js/runtime-main.73f23c02.js",
+    "runtime-main.js.map": "/resortmate/static/js/runtime-main.73f23c02.js.map",
+    "static/css/2.4707e12a.chunk.css": "/resortmate/static/css/2.4707e12a.chunk.css",
+    "static/js/2.336e78d3.chunk.js": "/resortmate/static/js/2.336e78d3.chunk.js",
+    "static/js/2.336e78d3.chunk.js.map": "/resortmate/static/js/2.336e78d3.chunk.js.map",
+    "index.html": "/resortmate/index.html",
+    "precache-manifest.a7f71171f6cc232c9632874632c74bc6.js": "/resortmate/precache-manifest.a7f71171f6cc232c9632874632c74bc6.js",
+    "service-worker.js": "/resortmate/service-worker.js",
+    "static/css/2.4707e12a.chunk.css.map": "/resortmate/static/css/2.4707e12a.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/resortmate/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.336e78d3.chunk.js.LICENSE.txt": "/resortmate/static/js/2.336e78d3.chunk.js.LICENSE.txt",
+    "static/media/aboutResort.jpg": "/resortmate/static/media/aboutResort.b3b635eb.jpg",
+    "static/media/aboutResort1.jpg": "/resortmate/static/media/aboutResort1.57f4a21d.jpg",
+    "static/media/aboutResort2.jpg": "/resortmate/static/media/aboutResort2.58ade6ed.jpg",
+    "static/media/background.svg": "/resortmate/static/media/background.46d6a975.svg",
+    "static/media/contact.png": "/resortmate/static/media/contact.33e308d0.png",
+    "static/media/room.glb": "/resortmate/static/media/room.35307b92.glb"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73f23c02.js",
+    "static/css/2.4707e12a.chunk.css",
+    "static/js/2.336e78d3.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.1cf888a5.chunk.js"
+  ]
+}
